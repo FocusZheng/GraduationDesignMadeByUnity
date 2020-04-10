@@ -1,0 +1,8 @@
+﻿0000,空,icon-etcFang,Drug,0,0,0,0,0
+1001,红药水,icon-potion1,Drug,50,0,40,60,0
+2001,短剑,sword1-icon,Equip,40,0,5,RightHand,Swordman,50,80
+2002,长剑,sword0-icon,Equip,60,0,5,RightHand,Swordman,50,80
+2003,魔法木棍,rod-icon,Equip,40,0,10,RightHand,Magician,50,90
+2004,锁子甲,armor1-icon,Equip,5,50,2,Armor,Swordman,40,70
+2005,魔法披风,armor3-icon,Equip,5,40,6,Armor,Magician,50,90
+3001,枕头,icon-etcFur,Mat,40,150
